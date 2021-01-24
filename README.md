@@ -43,5 +43,5 @@ After the reading and math scores for the ninth grade at Thomas High School were
  - The passing reading scores at Thomas High School dropped from 97 % to 70 %.
  - It was discovered that Thomas high School does not have any students enrolled in grade 8, 461 students enrolled in grade 9, 421 students in grade 10, 415 in grade 11, and 338 in grade 12, with a total of 1635 enrolled at Thomas High School.
  
- Overall, it is highly probable that the grades of ninth graders at Thomas High School were altered to reflect different and higher grades than the original ones obtained by the students.  
+ Overall, it is highly probable that the grades of ninth graders at Thomas High School were altered to reflect different and higher grades than the original ones obtained by the students.    
 
