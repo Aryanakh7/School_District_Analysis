@@ -9,7 +9,7 @@ The purpose of this analysis is to verify the authenticity of the reading and ma
 - As highlighted, the only changes to the analysis will occur in the Thomas High school ninth graders section, while the rest of the data remains intact. 
 
  ![image](https://user-images.githubusercontent.com/75655852/105624822-a06e8b00-5df2-11eb-9e16-df6dfec4ac5b.png)
- *As shown in the picture above, only the reading scores of ninth graders from Thomas High School are displayed as NaNs (Not a Number – and interpreted as an undefinable value).*
+  *As shown in the picture above, only the reading scores of ninth graders from Thomas High School are displayed as NaNs (Not a Number – and interpreted as an undefinable value).*
 
 - There is a total of 461 students who are ninth graders at Thomas High School. This number is excluded from the total student count to see how the results changed. 
 
