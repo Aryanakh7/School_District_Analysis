@@ -18,10 +18,10 @@ The purpose of this analysis is to verify the authenticity of the reading and ma
 
 - An analysis performed with the total count of students and grades (PySchoolPractice) indicated that Thomas High School was the second best amongst the top five schools. However, after the exclusion of Thomas High School grade 9, it no longer appeared in the top five performing schools. 
 
-![image](https://user-images.githubusercontent.com/75655852/105624923-6ce03080-5df3-11eb-96aa-14b38405bb3f.png)
+![image](https://user-images.githubusercontent.com/75655852/105626576-758a3400-5dfe-11eb-83f7-ab46605c7798.png)
 *Before the exclusion of Thomas High School Grade 9 math and reading scores*
 
-![image](https://user-images.githubusercontent.com/75655852/105624847-c8f68500-5df2-11eb-81ab-6e1cec9d1821.png)
+![image](https://user-images.githubusercontent.com/75655852/105626550-60ada080-5dfe-11eb-9144-c8f76e46d904.png)
 *After the exclusion of Thomas High School Grade 9 math and reading scores*
 
 - This could indicate that the addition of grade 9 scores had a significant impact in increasing the overall grades and therefore the ranking of the school. 
